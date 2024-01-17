@@ -5,7 +5,7 @@ Image Retrieval through Unsupervised Hypergraph-Based Manifold Ranking as descri
 <tr><th> </th><th> </th></tr>
 <tr><td>
 
-##Retrieval Accuracy
+## Retrieval Accuracy
 |Metric| Pre-trained (ImageNet) | Fine-Tuned (Animal Dataset)|
 |--|--|--|
 |Precision| 0.8534|0.8993 |
@@ -20,6 +20,6 @@ Image Retrieval through Unsupervised Hypergraph-Based Manifold Ranking as descri
 
 </td></tr> </table>
 
-##Retrieved Results
+## Retrieved Results
 
 ![results](https://drive.google.com/uc?export=view&id=1HYtcHHxEXIHh_pPTqSwkq8VkzOl9OqiI)
