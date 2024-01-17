@@ -5,9 +5,11 @@ Image Retrieval through Unsupervised Hypergraph-Based Manifold Ranking as descri
 <tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
 <tr><td>
 
-|Table 1| Middle | Table 2|
+|Metric| Pre-trained (ImageNet) | Fine-Tuned (Animal Dataset)|
 |--|--|--|
-|a| not b|and c |
+|Precision| 0.8534|0.8993 |
+|--|--|--|
+|Recall| 0.99|0.9833 |
 
 </td><td>
 
