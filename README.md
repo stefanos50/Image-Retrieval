@@ -8,13 +8,13 @@ Image Retrieval through Unsupervised Hypergraph-Based Manifold Ranking as descri
 |Metric| Pre-trained (ImageNet) | Fine-Tuned (Animal Dataset)|
 |--|--|--|
 |Precision| 0.8534|0.8993 |
-|--|--|--|
 |Recall| 0.99|0.9833 |
 
 </td><td>
 
-|b|1|2|3| 
-|--|--|--|--|
-|a|s|d|f|
+|Metric| Paper | FAISS|
+|--|--|--|
+|Precision| 0.8993|0.9493 |
+|Recall| 0.9833|1.0 |
 
 </td></tr> </table>
