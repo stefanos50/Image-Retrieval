@@ -23,4 +23,5 @@ Image Retrieval through Unsupervised Hypergraph-Based Manifold Ranking as descri
 
 ## Retrieved Results
 
-![results](https://drive.google.com/uc?export=view&id=1HYtcHHxEXIHh_pPTqSwkq8VkzOl9OqiI)
+![results](https://drive.google.com/thumbnail?id={1HYtcHHxEXIHh_pPTqSwkq8VkzOl9OqiI}&sz=w1000)
+
